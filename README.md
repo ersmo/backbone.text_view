@@ -9,6 +9,7 @@ view = new Backbone.TextView({
   name: 'user_name',
   placeholder: 'Please enter your username'
 });
+```
 
 ## Option
 
